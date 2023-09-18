@@ -1,5 +1,5 @@
-install-libs:
-	forge install OpenZeppelin/openzeppelin-contracts
+install:
+	forge install OpenZeppelin/openzeppelin-contracts --no-commit
 
 
 push:
